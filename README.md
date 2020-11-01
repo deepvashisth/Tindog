@@ -1,2 +1,1 @@
-# Tindog
-Tindog - A place to meet new dogs
+TinDog Starting Files
